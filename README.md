@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Vladislav
 
-<!--
-**Vakazv/Vakazv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Python backend developer focused on building backend services and APIs.
 
-Here are some ideas to get you started:
+## Tech stack
+- Python
+- FastAPI
+- PostgreSQL
+- Redis
+- Docker
+- REST API
+- pytest
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Backend development
+- Media and content services
+- API design
+- Databases and caching
+- Service architecture
+
+## Projects
+- News Aggregator API
+- Content Collector Service
