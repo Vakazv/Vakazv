@@ -1,24 +1,71 @@
-# Hi, I'm Vladislav
+# Hi, I'm Vladislav Alexandrov
 
-Junior Python Backend / Full-stack Developer. Building API-driven and multi-service products with FastAPI, PostgreSQL, Kotlin and Next.js.
+Junior Python Backend / Full-stack Developer focused on API-driven products, multi-service architecture, and practical MVP development.
 
-## Tech stack
-- Python
-- FastAPI
-- PostgreSQL
-- Redis
+## About me
+
+I build backend systems and full-stack MVPs with a strong focus on architecture, integration between components, and realistic product flows.
+
+My main stack includes:
+
+- Python, FastAPI
+- PostgreSQL, SQLAlchemy, Alembic
 - Docker
-- REST API
-- pytest
-- Git
+- Kotlin, Jetpack Compose
+- Next.js, TypeScript
+- REST API, auth flows, background workers
 
-## Interests
+## Main project
+
+### [AegisVPN](https://github.com/Vakazv/AegisVPN)
+
+A full-stack VPN MVP built as a portfolio-grade engineering project.
+
+It includes:
+
+- Android client
+- FastAPI control plane
+- Admin web panel
+- Worker service
+- PostgreSQL-based control plane
+- Local dev/demo mode with noop provisioning
+
+Implemented local end-to-end flow:
+
+- signup / login
+- VPN permission setup
+- local device key generation
+- device registration
+- VPN node management
+- config issuance
+- connect flow beyond the provisioning boundary in local demo mode
+
+## Other projects
+
+### [News Aggregator API](https://github.com/Vakazv/news-aggregator-api)
+
+Backend API for a news aggregation platform built with FastAPI, PostgreSQL, Redis, and Docker Compose.
+
+Implemented:
+
+- CRUD operations
+- filtering and pagination
+- healthcheck endpoints
+- local containerized development setup
+
+### [Content Collector Service](https://github.com/Vakazv/content-collector-service)
+
+A supporting service for collecting, normalizing, and sending mock content data to the main news backend over HTTP.
+
+## What I’m interested in
+
 - Backend development
-- Media and content services
 - API design
-- Databases and caching
-- Service architecture
+- Multi-service architecture
+- Product-oriented engineering
+- Full-stack MVP development
 
-## Projects
-- News Aggregator API
-- Content Collector Service
+## Contacts
+
+- GitHub: [github.com/Vakazv](https://github.com/Vakazv)
+- Main project: [AegisVPN](https://github.com/Vakazv/AegisVPN)
