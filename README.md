@@ -1,6 +1,6 @@
 # Hi, I'm Vladislav
 
-Junior Python backend developer focused on building backend services and APIs.
+Junior Python Backend / Full-stack Developer. Building API-driven and multi-service products with FastAPI, PostgreSQL, Kotlin and Next.js.
 
 ## Tech stack
 - Python
