@@ -1,71 +1,40 @@
-# Hi, I'm Vladislav Alexandrov
+# Vladislav Alexandrov
 
-Junior Python Backend / Full-stack Developer focused on API-driven products, multi-service architecture, and practical MVP development.
+Python developer focused on backend engineering, databases and applied machine learning.
 
-## About me
+Currently building **ChefAI** — a project for restaurant-style meal preparation planning, inventory management and food waste optimization.
 
-I build backend systems and full-stack MVPs with a strong focus on architecture, integration between components, and realistic product flows.
+## Currently learning
 
-My main stack includes:
+* Python
+* PostgreSQL
+* SQLAlchemy
+* Alembic
+* Software architecture
+* Automated testing
+* Optimization algorithms
+* Machine Learning
 
-- Python, FastAPI
-- PostgreSQL, SQLAlchemy, Alembic
-- Docker
-- Kotlin, Jetpack Compose
-- Next.js, TypeScript
-- REST API, auth flows, background workers
+## Current project
 
-## Main project
+### ChefAI
 
-### [AegisVPN](https://github.com/Vakazv/AegisVPN)
+ChefAI is being built from the ground up as a learning and engineering project.
 
-A full-stack VPN MVP built as a portfolio-grade engineering project.
+The current system models:
 
-It includes:
+* ingredients and product packages;
+* reusable food preparations;
+* dishes built from preparations and fresh ingredients;
+* home inventory and expiration dates;
+* package-aware purchasing;
+* food waste and expiration risk;
+* menu optimization.
 
-- Android client
-- FastAPI control plane
-- Admin web panel
-- Worker service
-- PostgreSQL-based control plane
-- Local dev/demo mode with noop provisioning
+The project currently uses Python, PostgreSQL, SQLAlchemy, Alembic and pytest.
 
-Implemented local end-to-end flow:
+I am focusing on understanding and being able to explain the architecture and implementation decisions behind the project rather than simply producing a finished application.
 
-- signup / login
-- VPN permission setup
-- local device key generation
-- device registration
-- VPN node management
-- config issuance
-- connect flow beyond the provisioning boundary in local demo mode
+## Contact
 
-## Other projects
-
-### [News Aggregator API](https://github.com/Vakazv/news-aggregator-api)
-
-Backend API for a news aggregation platform built with FastAPI, PostgreSQL, Redis, and Docker Compose.
-
-Implemented:
-
-- CRUD operations
-- filtering and pagination
-- healthcheck endpoints
-- local containerized development setup
-
-### [Content Collector Service](https://github.com/Vakazv/content-collector-service)
-
-A supporting service for collecting, normalizing, and sending mock content data to the main news backend over HTTP.
-
-## What I’m interested in
-
-- Backend development
-- API design
-- Multi-service architecture
-- Product-oriented engineering
-- Full-stack MVP development
-
-## Contacts
-
-- GitHub: [github.com/Vakazv](https://github.com/Vakazv)
-- Main project: [AegisVPN](https://github.com/Vakazv/AegisVPN)
+GitHub: @Vakazv
